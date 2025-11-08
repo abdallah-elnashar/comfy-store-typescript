@@ -2,7 +2,7 @@
 
 A full-stack e-commerce application built with TypeScript, React, and Redux Toolkit. Comfy Store provides a seamless online shopping experience with modern UI/UX design.
 
-![Comfy Store Banner](./src/assets/hero1.webp)
+
 
 ## 🌟 Features
 
@@ -28,19 +28,6 @@ A full-stack e-commerce application built with TypeScript, React, and Redux Tool
 ### Backend
 - **Strapi API** - Headless CMS for backend data
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](./screenshots/home.png)
-
-### Products Page
-![Products Page](./screenshots/products.png)
-
-### Cart Page
-![Cart Page](./screenshots/cart.png)
-
-### Checkout Page
-![Checkout Page](./screenshots/checkout.png)
 
 ## 🚀 Getting Started
 
